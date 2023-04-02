@@ -30,29 +30,33 @@ npm run start
 
 ```
 
+## Live demo
+
+https://task-management-ju.netlify.app
+
 ## Features
 
-# Boards 
+### Boards 
 
 - Creating a new board and columns
 - Board details management (name, columns)
 - Board details authentication
 - Delete the board
 
-# Tasks
+### Tasks
 
 - Creating a new task and subtasks
 - Task details management (name, description, subtasks and status)
 - Task details authentication
 - Delete the task
 
-# Other
+### Other
 
 - Light/Dark mode
 
 ## Technologies
 
-# Frontend
+### Frontend
 
 - HTML
 - CSS (Tailwind CSS)
@@ -60,9 +64,14 @@ npm run start
 - ReactJS
 - Rest API
 
-# Backend
+### Backend
 
 - Node.js
 - Express
 - MongoDB
 - Socket.IO
+
+## Author
+
+https://www.facebook.com/jakub.urbanski.3998
+
